@@ -4,17 +4,15 @@ title: "Projects"
 permalink: /projects/
 ---
 
-# My Projects
+# Inquiro Projects
 
-Here are some projects I'm working on or have completed:
+The current projects include developing a suitable AI model for creators, focused on human-centered outcomes. Think of it as a digital intelligent partner that grows with you.
 
-## 🔧 This Blog
-- **Tech**: Jekyll, GitHub Pages, Architect Theme
-- **Status**: Active
-- **Repo**: [inquiro-media](https://github.com/faisalmrasul/inquiro-media)
+Check the AI models here:
 
-## 🚀 More Coming Soon...
-I'm currently working on new projects that will be added here soon!
+## https://inquiro-editor-copilot.streamlit.app/
 
-## Open Source Contributions
-I contribute to various open-source projects. Check my [GitHub profile](https://github.com/faisalmrasul) for details.
+## https://inquiro-explain.streamlit.app/
+
+## Contributions
+Explore my profile: https://github.com/faisalmrasul 
