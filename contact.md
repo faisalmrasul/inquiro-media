@@ -9,10 +9,10 @@ permalink: /contact/
 I'd love to hear from you! Here are ways to connect:
 
 ## 📧 Email
-[Your email address]
+faisalmrasul13@gmail.com
 
 ## 💼 LinkedIn
-[Your LinkedIn profile URL]
+https://www.linkedin.com/in/faisalmrasul/
 
 ## 🐙 GitHub
 [https://github.com/faisalmrasul](https://github.com/faisalmrasul)
@@ -23,4 +23,4 @@ Found an error? Have a suggestion?
 - Or create a Pull Request
 
 ## Response Time
-I try to respond within 48 hours for all serious inquiries.
+I try to respond within 72 hours for all serious inquiries.
