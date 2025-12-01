@@ -1,0 +1,24 @@
+# Site Settings
+title: "Inquiro Media"
+description: "Exploring technology, ideas, and innovation"
+baseurl: "/inquiro-media"  # MUST match your repository name
+url: "https://faisalmrasul.github.io"  # Your GitHub username
+theme: jekyll-theme-architect
+
+# Author Details
+author:
+  name: "Faisal"
+  github: "faisalmrasul"
+
+# Build Settings
+markdown: kramdown
+permalink: pretty
+plugins:
+  - jekyll-feed
+
+# Exclude from processing
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor
