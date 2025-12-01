@@ -1,4 +1,4 @@
-Introducing Inquiro: Your Guide to an AI-Powered World
+**Introducing Inquiro: Your Guide to an AI-Powered World**
 
 Inquiro is a media hub dedicated to exploring artificial intelligence. We create clear, meaningful content that examines AI’s impact across every field and industry. Our goal is to help you understand and prepare for a future where AI is a part of everything we do.
 
