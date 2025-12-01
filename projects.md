@@ -10,9 +10,9 @@ The current projects include developing a suitable AI model for creators, focuse
 
 ### Check the AI models here:
 
-a) https://inquiro-editor-copilot.streamlit.app/
+a) [https://inquiro-editor-copilot.streamlit.app/](https://inquiro-editor-copilot.streamlit.app/)
 
-b) https://inquiro-explain.streamlit.app/
+b) [https://inquiro-explain.streamlit.app/](https://inquiro-explain.streamlit.app/)
 
 ### Contributions
-**Explore my profile: https://github.com/faisalmrasul **
+**Explore my profile: **[https://github.com/faisalmrasul](https://github.com/faisalmrasul)**
