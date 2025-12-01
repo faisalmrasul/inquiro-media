@@ -8,14 +8,8 @@ permalink: /contact/
 
 I'd love to hear from you! Here are ways to connect:
 
-## 📧 Email
-faisalmrasul13@gmail.com
-
-## 💼 LinkedIn
-https://www.linkedin.com/in/faisalmrasul/
-
-## 🐙 GitHub
-[https://github.com/faisalmrasul](https://github.com/faisalmrasul)
+## Email                        |   LinkedIn                                                                                  | GitHub
+   faisalmrasul13@gmail.com         [https://www.linkedin.com/in/faisalmrasul/](https://www.linkedin.com/in/faisalmrasul/) [https://github.com/faisalmrasul](https://github.com/faisalmrasul)
 
 ## 📝 Blog Feedback
 Found an error? Have a suggestion?
