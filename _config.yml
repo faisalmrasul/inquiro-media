@@ -3,7 +3,8 @@ title: "Inquiro Media"
 description: "Exploring technology, ideas, and innovation"
 baseurl: "/inquiro-media"  # MUST match your repository name
 url: "https://faisalmrasul.github.io"  # Your GitHub username
-theme: jekyll-theme-architect
+theme: jekyll-theme-architect 
+remote_theme: pages-themes/architect@v0.2.0
 
 # Author Details
 author:
@@ -14,11 +15,12 @@ author:
 markdown: kramdown
 permalink: pretty
 plugins:
-  - jekyll-feed
+  - jekyll-remote-theme
 
 # Exclude from processing
 exclude:
   - Gemfile
   - Gemfile.lock
   - node_modules
+
   - vendor
