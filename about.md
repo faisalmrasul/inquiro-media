@@ -1,49 +1,11 @@
----
-layout: page
-title: "About"
-permalink: /about/
----
+## Introducing Inquiro: Your Guide to an AI-Powered World ##
 
-# About Inquiro Media
+Inquiro is a media hub dedicated to exploring artificial intelligence. We create clear, meaningful content that examines AI’s impact across every field and industry. Our goal is to help you understand and prepare for a future where AI is a part of everything we do.
 
-## 👋 Hello, I'm Faisal
+Here, AI is a powerful creative tool, but the human voice always leads. We blend technological efficiency with genuine human insight to ensure our content is not only useful, but relatable and real.
 
-Welcome to my digital corner of the internet! This blog is where I document my journey through technology, share learnings, and explore new ideas.
+# Vision #
+To guide the world toward an AI-informed future with clarity and confidence.
 
-## What You'll Find Here
-
-### 📚 Learning & Tutorials
-Practical guides and tutorials on:
-- Web Development
-- GitHub & Open Source
-- Programming Concepts
-- Tools & Workflows
-
-### 💡 Projects & Experiments
-Showcase of personal projects, experiments, and open-source contributions.
-
-### 🤔 Reflections
-Thoughts on technology trends, career growth, and the developer ecosystem.
-
-## My Philosophy
-- **Learn in Public**: Share the process, not just the outcome
-- **Build to Learn**: Practical projects over theoretical knowledge
-- **Community First**: Learn from and contribute to the community
-
-## Technical Stack
-This blog is built with:
-- **GitHub Pages**: Hosting
-- **Jekyll**: Static site generator
-- **Architect Theme**: Clean and responsive design
-- **Markdown**: For all content
-
-## Connect With Me
-- **GitHub**: [faisalmrasul](https://github.com/faisalmrasul)
-- **Email**: [Your email here]
-- **LinkedIn**: [Optional]
-
-## About the Blog Name
-"Inquiro" is Latin for "to inquire" or "to investigate" – reflecting my curiosity-driven approach to technology.
-
----
-*This blog is open source. Found an issue? [Submit a fix on GitHub](https://github.com/faisalmrasul/inquiro-media)*
+# Mission #
+To empower through trusted, human-centered AI content that educates and prepares.
