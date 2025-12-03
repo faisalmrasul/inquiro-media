@@ -16,7 +16,7 @@ A main focus of Inquiro is to provide a philosophical lens to its generation, co
 
 Whether it is good enough for public view is debatable, as more research and adjustments may be required to make it sufficiently valuable for people. 
 
-The following outputs focus solely on – Human Experience. I have made no adjustments to the articles, leaving them in their original state to facilitate your integration process and allow for an honest judgment. You can check the results below ...
+The following outputs focus solely on – Human Experience. We have made no adjustments to the articles, leaving them in their original state to facilitate your integration process and allow for an honest judgment. You can check the results below ...
 
 
 ### Note: ###
@@ -24,7 +24,7 @@ Please keep in mind that this is a demo version, suitable only for laboratory ex
 
 
 ### The AI model is available at this link: ###
-[https://inquiro-explain.streamlit.app/](https://inquiro-explain.streamlit.app/)
+[https://inquiro-explain.streamlit.app/](https://inquiro-explain.streamlit.app/) (It is completely free to use; you just need to paste an OpenRouter API key)
 
 
 ## 1) Conversational ##
