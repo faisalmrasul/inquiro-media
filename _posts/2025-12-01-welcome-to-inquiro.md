@@ -24,7 +24,7 @@ This intelligent system is designed to navigate the digital world with a purpose
 
 The system operates with strategic human oversight and built-in ethical safeguards. The result is more than just a tool; it is a learning organism that continuously grows its strategic understanding and competitive advantage.
 
-## 2. The Explainable AI Journalist: A Transparent Co-Writer ##
+## 2. The Explainable AI: A Transparent Co-Writer ##
 
 Imagine an AI that explains its reasoning like a thoughtful partner. This tool is a transparent assistant for writers and journalists, designed to create deeply insightful content by combining AI assistance with philosophical perspectives. You input a topic, and it reveals its entire process. It shows you how it frames human stories, applies philosophical lenses from thinkers like Aristotle to modern voices, and connects insights clearly. You get to see the "why" behind every idea.
 
