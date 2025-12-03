@@ -26,7 +26,7 @@ The following outputs focus solely on – Human Experience. I have made no adjus
 [https://inquiro-explain.streamlit.app/](https://inquiro-explain.streamlit.app/)
 
 
-**a) Conversational**
+**1) Conversational**
 
 ***Introduction to AI Research: The Human Story Behind the Machines***
 
@@ -63,7 +63,7 @@ So, how do we navigate this new world? Here are a few questions to carry with yo
 3.	**Where can AI
 
 
-**b) Analytical**
+**2) Analytical**
 
 ***The AI Paradox: When Machines Learn, What Do We Unlearn?***
 
