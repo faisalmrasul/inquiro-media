@@ -10,7 +10,7 @@ The current projects include developing suitable generative AI models for the cr
 
 ### Check the AI models here:
 
-a) [https://inquiro-editor-copilot.streamlit.app/](https://inquiro-editor-copilot.streamlit.app/)
+a) [https://inquiroai-content.streamlit.app/](https://inquiroai-content.streamlit.app/)
 
 b) [https://inquiro-explain.streamlit.app/](https://inquiro-explain.streamlit.app/)
 
