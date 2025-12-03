@@ -6,5 +6,5 @@ Here, AI is a powerful creative tool, but the human voice always leads. We blend
 
 As part of this initiative, we actively develop and employ our own AI systems, including end-to-end autonomous content platforms and Explainable AI that functions as a transparent co-writer, demystifying the creative process. 
 
-## Vision: ## To guide the world toward an AI-informed future with clarity and confidence.
-## Mission: ## To empower through trusted, human-centered AI content that educates and prepares. 
+## Vision: To guide the world toward an AI-informed future with clarity and confidence.
+## Mission: To empower through trusted, human-centered AI content that educates and prepares. 
