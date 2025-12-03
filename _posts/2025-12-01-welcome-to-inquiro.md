@@ -4,12 +4,6 @@ Inquiro is a media hub dedicated to exploring artificial intelligence. We create
 
 Here, we see AI as a powerful creative tool, but the human voice always leads the way. We blend technological efficiency with genuine human insight to make sure our content is not only useful, but also relatable and real.
 
-### Our Mission ###
-To empower people with trusted, human-centered AI content that educates and prepares us all for what comes next.
-
-### Our Vision ###
-To guide the world toward an AI-informed future with clarity and confidence.
-
 **As part of this vision, we are developing two core initiatives:**
 
 ## 1. An End-to-End Autonomous Content System ##
