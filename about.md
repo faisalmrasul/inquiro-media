@@ -10,7 +10,7 @@ To empower people with trusted, human-centered AI content that educates and prep
 ### Our Vision ###
 To guide the world toward an AI-informed future with clarity and confidence.
 
-As part of this vision, we are developing two core initiatives:
+**As part of this vision, we are developing two core initiatives:**
 
 ## 1. An End-to-End Autonomous Content System ##
 
