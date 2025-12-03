@@ -20,7 +20,7 @@ The following outputs focus solely on – Human Experience. I have made no adjus
 
 
 ### Note: ###
-Please keep in mind that this is a demo version, suitable only for laboratory experimentation. Your judgment of the outputs should keep that angle in mind.***
+Please keep in mind that this is a demo version, suitable only for laboratory experimentation. Your judgment of the outputs should keep that angle in mind.
 
 
 ### The AI model is available at this link: ###
