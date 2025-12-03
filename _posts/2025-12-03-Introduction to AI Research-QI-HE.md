@@ -23,7 +23,7 @@ The following outputs focus solely on – Human Experience. I have made no adjus
 
 
 **The AI model is available at this link:**
-https://inquiro-explain.streamlit.app
+[https://inquiro-explain.streamlit.app/](https://inquiro-explain.streamlit.app/)
 
 
 **a) Conversational**
