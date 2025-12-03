@@ -16,7 +16,9 @@ A main focus of Inquiro is to provide a philosophical lens to its generation, co
 
 Whether it is good enough for public view is debatable, as more research and adjustments may be required to make it sufficiently valuable for people. 
 
-The following outputs focus solely on – Human Experience. We have made no adjustments to the articles, leaving them in their original state to facilitate your integration process and allow for an honest judgment. You can check the results below ...
+The following outputs focus solely on – Human Experience. We have made no adjustments to the articles, leaving them in their original state to facilitate your integration process and allow for an honest judgment. 
+
+You can check the results below ...
 
 
 ### Note: ###
