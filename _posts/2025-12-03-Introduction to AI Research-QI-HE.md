@@ -18,7 +18,7 @@ The following outputs focus solely on – Human Experience. You can check the re
 
 ***Note: Please keep in mind that this is a demo version, suitable only for laboratory experimentation. Your judgment of the outputs should keep that angle in mind.***
 
-**Conversational**
+**a) Conversational**
 
 ***Introduction to AI Research: The Human Story Behind the Machines***
 
@@ -54,7 +54,7 @@ So, how do we navigate this new world? Here are a few questions to carry with yo
 3.	**Where can AI
 
 
-**Analytical**
+**b) Analytical**
 
 ***The AI Paradox: When Machines Learn, What Do We Unlearn?***
 
@@ -87,7 +87,7 @@ Rather than rejecting AI research tools, we must learn to integrate them in ways
 The fundamental question isn't whether AI will replace human researchers, but what kind of
 
 
-**Narrative**
+**3) Narrative**
 
 ***The Ghost in Our Machines: When AI Becomes Part of the Human Story***
 
@@ -109,7 +109,7 @@ Actionable Reflections:
 1.	Audit Your Agency: In your daily routines, identify where AI acts for you versus with you. Where does it enhance your capacity, and where might it replace
 
 
-**Authoritative**
+**4) Authoritative**
 
 ***The Hourglass Heart: When AI Research Reshapes Human Flourishing***
 
