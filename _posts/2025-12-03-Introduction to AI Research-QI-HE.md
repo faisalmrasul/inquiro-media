@@ -61,7 +61,7 @@ So, how do we navigate this new world? Here are a few questions to carry with yo
 
 1.	What does it mean to be human? As AI advances, this question becomes more urgent. Take time to reflect on what gives your life meaning—your relationships, your creativity, your capacity to choose.
 2.	How can you engage thoughtfully? Don’t be a passive consumer of technology. Ask questions. Seek to understand how AI works and how it’s used. As Arendt would say, think for yourself.
-3.	**Where can AI
+3.	Where can AI
 
 
 ## 2) Analytical ##
@@ -98,7 +98,7 @@ Rather than rejecting AI research tools, we must learn to integrate them in ways
 The fundamental question isn't whether AI will replace human researchers, but what kind of
 
 
-## 3) Narrative** ##
+## 3) Narrative ##
 
 ### The Ghost in Our Machines: When AI Becomes Part of the Human Story ###
 
@@ -147,4 +147,4 @@ If AI removes the struggle, the effort inherent in mastering a craft or making a
 
 The question for human flourishing is not whether AI exists, but how we integrate it without surrendering our essence. Here are pathways forward:
 1.	Design for Augmentation, Not Replacement: Prioritize AI systems that enhance human judgment and skill (like advanced diagnostic aids that present options for a radiologist to evaluate) rather than autonomous decision-makers that bypass human agency.
-2.	**Cultivate
+2.	Cultivate
