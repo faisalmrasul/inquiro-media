@@ -7,7 +7,7 @@ At Inquiro Media Labs, we actively develop end-to-end AI content systems, includ
 Rather than obscuring the creative process, our tools reveal how AI contributes to research and writing.
 
 ## Vision: ## 
-To guide the world toward an AI-informed future with clarity and confidence.
+To reveal AI’s capabilities across domains and shape an AI-informed future.
 
 ## Mission: ## 
-To empower through trusted, human-centered AI content that educates and prepares. 
+To build and experiment with AI models, generating insights and applications that empower understanding and impact.
