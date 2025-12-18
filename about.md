@@ -1,10 +1,10 @@
-# Inquiro: Your Guide to an AI-Powered World #
+# Inquiro Media Labs: Your Guide to an AI-Powered World #
 
-Inquiro is a media hub dedicated to exploring artificial intelligence. We create clear, meaningful content that examines AI’s impact across every field and industry. Our goal is to help you understand and prepare for a future where AI is a part of everything we do.
+Inquiro Media Labs is dedicated to exploring artificial intelligence through hands-on development and experimentation. We build our own AI models and systems and use them to create clear, meaningful content that examines AI’s impact across industries and everyday life.
 
-Here, AI is a powerful creative tool, but the human voice always leads. We blend technological efficiency with genuine human insight to ensure our content is not only useful, but relatable and real. 
+At Inquiro Media Labs, we actively develop end-to-end AI content systems, including autonomous workflows and explainable AI designed to function as transparent co-creators.
 
-As part of this initiative, we actively develop and employ our own AI systems, including end-to-end autonomous content platforms and Explainable AI that functions as a transparent co-writer, demystifying the creative process. 
+Rather than obscuring the creative process, our tools reveal how AI contributes to research and writing.
 
 ## Vision: ## 
 To guide the world toward an AI-informed future with clarity and confidence.
