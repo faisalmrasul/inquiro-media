@@ -1,13 +1,16 @@
-# Inquiro Media Labs: Your Guide to an AI-Powered World #
+# Inquiro Media Labs: Exploring and Building with AI #
 
-Inquiro Media Labs is dedicated to exploring artificial intelligence through hands-on development and experimentation. We build our own AI models and systems and use them to create clear, meaningful content that examines AI’s impact across industries and everyday life.
+Inquiro Media Labs is a place to explore artificial intelligence through hands-on building and real experimentation. We document our journey of creating AI-powered applications by working with large language models, custom logic, user interfaces, and automated workflows.
 
-At Inquiro Media Labs, we actively develop end-to-end AI content systems, including autonomous workflows and explainable AI designed to function as transparent co-creators.
+**The goal is simple:** to understand how generative AI becomes useful in the real world.
 
-Rather than obscuring the creative process, our tools reveal how AI contributes to research and writing.
+At Inquiro Media Labs, we develop end-to-end, AI-powered systems that support knowledge work. These systems are designed to be explainable and transparent, acting as collaborators rather than hidden black boxes.
 
-## Vision: ## 
-To reveal AI’s capabilities across domains and shape an AI-informed future.
+Instead of hiding the process, we share it openly. We focus on how AI contributes to inquiry and where human judgment still matters most.
+
 
 ## Mission: ## 
-To build and experiment with AI models, generating insights and applications that empower understanding and impact.
+To explore AI-powered tools that create real-world impact.
+
+## Vision: ## 
+To help people understand what AI can do across different domains and contribute to a more AI-aware future.
