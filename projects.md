@@ -23,5 +23,10 @@ a) Conversational Revenue Platform: [https://ncptmcntx5fevenuinnusw.streamlit.ap
 
 b) Creator Collab Network: [https://chronos-8nrkq8nphxkkhvny5jqwbh.streamlit.app/](https://chronos-8nrkq8nphxkkhvny5jqwbh.streamlit.app/)
 
+c) Clear Thought Writer: [https://inquiro-explain.streamlit.app/](https://inquiro-explain.streamlit.app/)
+
+d) Conversational Revenue Platform: [https://ncptmcntx5fevenuinnusw.streamlit.app/](https://ncptmcntx5fevenuinnusw.streamlit.app/)
+
+
 ### Contributions
 **Explore my profile: [https://github.com/faisalmrasul](https://github.com/faisalmrasul)**
