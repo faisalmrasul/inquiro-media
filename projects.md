@@ -9,6 +9,7 @@ permalink: /projects/
 Inquiro Projects is a collection of experimental, AI-powered applications developed at Inquiro Media Labs. The projects focus on building practical, human-centered tools for creators and knowledge workers by leveraging large language models while keeping human judgment at the core. 
 
 **Our work emphasizes:**
+
 •	Real-world usefulness over demos
 
 •	Transparency and explainability in AI-assisted workflows
