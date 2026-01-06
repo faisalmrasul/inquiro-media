@@ -21,7 +21,7 @@ Inquiro Projects is a collection of experimental, AI-powered applications develo
 
 a) Conversational Revenue Platform: [https://ncptmcntx5fevenuinnusw.streamlit.app/](https://ncptmcntx5fevenuinnusw.streamlit.app/)
 
-b) [https://inquiro-explain.streamlit.app/](https://inquiro-explain.streamlit.app/)
+b) Creator Collab Network: [https://chronos-8nrkq8nphxkkhvny5jqwbh.streamlit.app/](https://chronos-8nrkq8nphxkkhvny5jqwbh.streamlit.app/)
 
 ### Contributions
 **Explore my profile: [https://github.com/faisalmrasul](https://github.com/faisalmrasul)**
