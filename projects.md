@@ -10,7 +10,9 @@ Inquiro Projects is a collection of experimental, AI-powered applications develo
 
 **Our work emphasizes:**
 •	Real-world usefulness over demos
+
 •	Transparency and explainability in AI-assisted workflows
+
 •	End-to-end systems, from prompts and logic to user interfaces
 
 
