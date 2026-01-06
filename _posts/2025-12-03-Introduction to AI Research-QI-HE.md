@@ -1,31 +1,28 @@
 # Introduction to AI Research (Quick Insight - Human Experience) #
 
-Inquiro is in the process of building an explainable system that turns AI into a true thinking partner. Using the free model Kat Coder Pro, our blueprint shows exactly how insights and articles come to life through a clear, step-by-step process.
+Inquiro is in the process of building an explainable app that turns AI into a true thinking partner. Using the free model Kat Coder Pro, our blueprint shows exactly how insights and articles come to life through a clear, step-by-step process.
 
-Forget opaque answers. With our system, you see the methodology unfold in real time: first, it crafts a human story. Then, it analyzes that story through a chosen philosophical lens. Finally, it synthesizes everything into practical, actionable insights.
-This visible process is by design. 
+Forget opaque answers. With our app, you see the methodology unfold in real time: first, it crafts a human story. Then, it analyzes that story through a chosen philosophical lens. Finally, it synthesizes everything into practical, actionable insights. This visible process is by design.
 
-We believe transparency builds trust and depth, transforming the AI from a simple tool into a genuine co-writer.
-By making the "why" behind every conclusion explicit, we ensure you remain firmly in the driver's seat. Your unique context and critical thinking are always at the center. The result is a richer understanding and far more authentic storytelling.
+We believe transparency builds trust and depth, transforming the AI from a simple tool into a genuine co-writer. By making the "why" behind every conclusion explicit, we ensure you remain firmly in the driver's seat. Your unique context and critical thinking are always at the center. The result is a richer understanding and far more authentic storytelling.
 
-However, the system needs more insights to achieve better performance, as one of the key issues is its inability to complete the final output. When ending an article with a reflective message or a call to action, it remains far from perfect, often stopping the process without finishing the generation. 
+However, the app needs more insights to achieve better performance, as one of the key issues is its inability to complete the final output. When ending an article with a reflective message or a call to action, it remains far from perfect, often stopping the process without finishing the generation.
 
-Below are samples of articles it has generated based on the topic: “Introduction to AI Research”. The four articles are focused on “conversational”, “analytical”, “narrative”, and “authoritative” formats. 
+Below are samples of articles it has generated based on the topic: "Introduction to AI Research". The four articles are focused on "conversational", "analytical", "narrative", and "authoritative" formats.
 
-A main focus of Inquiro is to provide a philosophical lens to its generation, comprising four viewpoints: “human experience”, “ethical dimension”, “systems thinking”, and “existential reflection”. From a broader perspective, the model has been able to achieve this purpose. 
+A main focus of Inquiro is to provide a philosophical lens to its generation, comprising four viewpoints: "human experience", "ethical dimension", "systems thinking", and "existential reflection". From a broader perspective, the app has been able to achieve this purpose.
 
-Whether it is good enough for public view is debatable, as more research and adjustments may be required to make it sufficiently valuable for people. 
+Whether it is good enough for public view is debatable, as more research and adjustments may be required to make it sufficiently valuable for people.
 
-The following outputs focus solely on – Human Experience. We have made no adjustments to the articles, leaving them in their original state to facilitate your integration process and allow for an honest judgment. 
+The following outputs focus solely on Human Experience. We have made no adjustments to the articles, leaving them in their original state to facilitate your integration process and allow for an honest judgment.
 
-You can check the results below ...
-
+You can check the results below … 
 
 ### Note: ###
 Please keep in mind that this is a demo version, suitable only for laboratory experimentation. Your judgment of the outputs should keep that angle in mind.
 
 
-### The AI model is available at this link: ###
+### The App is available at this link: ###
 [https://inquiro-explain.streamlit.app/](https://inquiro-explain.streamlit.app/) (It is completely free to use; you just need to paste an OpenRouter API key)
 
 
