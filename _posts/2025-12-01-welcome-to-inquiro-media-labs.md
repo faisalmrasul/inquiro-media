@@ -68,7 +68,7 @@ The Conversational Revenue Platform flips the script on AI chatbots: instead of 
 
 **Two ways to use it**
 
-***** As a User: *****
+***As a User:***
 
 •	Chat with an intelligent AI assistant for a fee per interaction
 
@@ -76,7 +76,7 @@ The Conversational Revenue Platform flips the script on AI chatbots: instead of 
 
 •	Get help, information, or have meaningful conversations
 
-***** As a contributor:*****
+***As a contributor:***
 
 •	Share your expertise, industry knowledge, or data
 
@@ -92,8 +92,12 @@ The more valuable your contributions, the more you earn. It's a genuine opportun
 
 
 **Quick Links:**
-•	Smart Content Assistant
-•	Clear Thought Writer
-•	Creator Collab Network
-•	Conversational Revenue Platform
+
+a) Conversational Revenue Platform: [https://ncptmcntx5fevenuinnusw.streamlit.app/](https://ncptmcntx5fevenuinnusw.streamlit.app/)
+
+b) Creator Collab Network: [https://chronos-8nrkq8nphxkkhvny5jqwbh.streamlit.app/](https://chronos-8nrkq8nphxkkhvny5jqwbh.streamlit.app/)
+
+c) Clear Thought Writer: [https://inquiro-explain.streamlit.app/](https://inquiro-explain.streamlit.app/)
+
+d) Smart Content Assistant: [https://inquiroai-content.streamlit.app/](https://inquiroai-content.streamlit.app/)
 
