@@ -19,7 +19,7 @@ Inquiro Projects is a collection of experimental, AI-powered applications develo
 
 ### Live Apps – Experience AI-powered applications
 
-a) [https://inquiroai-content.streamlit.app/](https://inquiroai-content.streamlit.app/)
+a) Conversational Revenue Platform: [https://ncptmcntx5fevenuinnusw.streamlit.app/](https://ncptmcntx5fevenuinnusw.streamlit.app/)
 
 b) [https://inquiro-explain.streamlit.app/](https://inquiro-explain.streamlit.app/)
 
