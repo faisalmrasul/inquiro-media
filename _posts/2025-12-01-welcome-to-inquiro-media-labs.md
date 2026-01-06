@@ -7,7 +7,7 @@ We see AI as a collaborative tool that enhances human decision-making and creati
 
 **As part of this vision, we are constantly developing applications, and you can see some of our ongoing projects below:**
 
-## 1. Smart Content Assistant ## (Never run out of content ideas again)
+## 1. Smart Content Assistant ## 
 
 Imagine having a marketing team that works around the clock, monitoring trends and creating content for you. That's exactly what the Smart Content Assistant does.
 
