@@ -6,9 +6,15 @@ permalink: /projects/
 
 # Inquiro Projects
 
-The current projects include developing suitable generative AI models for the creators, focused on human-centered outcomes. Think of it as a digital intelligent partner that grows with you.
+Inquiro Projects is a collection of experimental, AI-powered applications developed at Inquiro Media Labs. The projects focus on building practical, human-centered tools for creators and knowledge workers by leveraging large language models while keeping human judgment at the core. 
 
-### Check the AI models here:
+**Our work emphasizes:**
+•	Real-world usefulness over demos
+•	Transparency and explainability in AI-assisted workflows
+•	End-to-end systems, from prompts and logic to user interfaces
+
+
+### Live Apps – Experience AI-powered applications
 
 a) [https://inquiroai-content.streamlit.app/](https://inquiroai-content.streamlit.app/)
 
