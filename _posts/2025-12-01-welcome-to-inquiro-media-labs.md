@@ -5,7 +5,7 @@ Inquiro Media Labs is a space for exploring and building with artificial intelli
 We see AI as a collaborative tool that enhances human decision-making and creativity. We share our experiments openly to help people understand AI’s potential and prepare for a future where it is smoothly integrated into everyday work.
 
 
-**As part of this vision, we are developing two core initiatives:**
+**As part of this vision, we are constantly developing applications, and you can see some of our ongoing projects below:**
 
 ## 1. An End-to-End Autonomous Content System ##
 
