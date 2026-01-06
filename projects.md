@@ -25,7 +25,7 @@ b) Creator Collab Network: [https://chronos-8nrkq8nphxkkhvny5jqwbh.streamlit.app
 
 c) Clear Thought Writer: [https://inquiro-explain.streamlit.app/](https://inquiro-explain.streamlit.app/)
 
-d) Conversational Revenue Platform: [https://ncptmcntx5fevenuinnusw.streamlit.app/](https://ncptmcntx5fevenuinnusw.streamlit.app/)
+d) Smart Content Assistant: [https://inquiroai-content.streamlit.app/](https://inquiroai-content.streamlit.app/)
 
 
 ### Contributions
