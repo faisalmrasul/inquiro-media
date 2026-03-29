@@ -93,11 +93,11 @@ The more valuable your contributions, the more you earn. It's a genuine opportun
 
 **Quick Links:**
 
-a) Conversational Revenue Platform: [https://ncptmcntx5fevenuinnusw.streamlit.app/](https://ncptmcntx5fevenuinnusw.streamlit.app/)
+a) Conversational Revenue Platform: [https://revenuechat.streamlit.app/](https://revenuechat.streamlit.app/)
 
-b) Creator Collab Network: [https://chronos-8nrkq8nphxkkhvny5jqwbh.streamlit.app/](https://chronos-8nrkq8nphxkkhvny5jqwbh.streamlit.app/)
+b) Creator Collab Network: [https://collabnet.streamlit.app/](https://collabnet.streamlit.app/)
 
-c) Clear Thought Writer: [https://inquiro-explain.streamlit.app/](https://inquiro-explain.streamlit.app/)
+c) Clear Thought Writer: [https://mindline.streamlit.app/](https://mindline.streamlit.app/)
 
-d) Smart Content Assistant: [https://inquiroai-content.streamlit.app/](https://inquiroai-content.streamlit.app/)
+d) Smart Content Assistant: [https://contentforge.streamlit.app/](https://contentforge.streamlit.app/)
 
