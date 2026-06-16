@@ -11,7 +11,7 @@ The name Inquiro comes from Latin, meaning “to inquire” or “to investigate
 
 
 ## Quick Links
-#### [View All Posts](/inquiro-media/blog) - [About](/inquiro-media/about) - [Projects](/inquiro-media/projects) - [Contact](/inquiro-media/contact)
+#### [View All Posts](/inquiro-media/blog) - [About](/inquiro-media/about) - [Projects](/inquiro-media/projects) - [Contact](/inquiro-media/contact) - [Portfolio](/inquiro-media/portfolio)
 
 
 
